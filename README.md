@@ -9,11 +9,11 @@
 
 足球赛事的爬取
 
-!img
+![image](https://github.com/yylnb/Spider/assets/119385505/8bc9d59d-16c2-4ad8-8b5e-6d1fa5b053c6)
 
 糗事百科的爬取
 
-!img
+![image](https://github.com/yylnb/Spider/assets/119385505/c3473772-8c60-4b68-9f56-9044825cde6b)
 
 
 是不是看起来很舒服？接下来我们就学习如何用python3完成这个任务。
@@ -36,7 +36,7 @@
    
 输出结果如下
 
-!img
+![image](https://github.com/yylnb/Spider/assets/119385505/9b3e0abb-e452-493e-ba0e-8c8941eb6dd8)
 
 这样我们就得到了这个网站的所有源码
 
@@ -46,7 +46,7 @@
 
 下面看一个简单的例子，首先建立一个简单的网页example.html
 
-!img
+![image](https://github.com/yylnb/Spider/assets/119385505/c58f75bc-17d4-4ce0-aa07-dd605c985a07)
 
 例如我们要获取主科man-subjects里的项目
 
@@ -58,7 +58,7 @@
 
 输出结果
 
-!img
+![image](https://github.com/yylnb/Spider/assets/119385505/747087cc-e16f-4480-8ad7-630361bab2e0)
 
 这样我们就得到了主科的ul
 
@@ -69,7 +69,7 @@
     	print(i.text)
 输出结果
 
-!img
+![image](https://github.com/yylnb/Spider/assets/119385505/81265b83-4110-41f6-bfa9-22e2b7a1cc8f)
 
 这样我们就成功获得了主科的信息
 
